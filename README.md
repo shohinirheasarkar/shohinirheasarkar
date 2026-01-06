@@ -1,4 +1,4 @@
-## Hi, I'm Rhea 👋
+## Hi, I'm Shohini Rhea Sarkar
 
 I'm a Computer Science undergraduate at the University of Maryland (B.S. in Machine Learning, expected May 2027),
 with a strong interest in AI research
