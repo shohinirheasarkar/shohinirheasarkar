@@ -3,7 +3,7 @@
 I'm a Computer Science undergraduate at the University of Maryland (B.S. in Machine Learning, expected May 2027),
 with a strong interest in AI research
 
-My work has focused on applying machine learning to complex, noisy domains, including neuroscience,
+My work has focused on applying machine learning to complex domains, including neuroscience,
 satellite systems, and astrophysics
 
 ### Research & Technical Interests
