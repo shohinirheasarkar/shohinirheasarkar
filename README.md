@@ -4,22 +4,26 @@ I'm a Computer Science undergraduate at the University of Maryland (B.S. in Mach
 with a strong interest in AI research
 
 My work has focused on applying machine learning to complex domains, including neuroscience,
-satellite systems, and astrophysics
+astrophysics, satellite systems, and biology
 
 ### Research & Technical Interests
-- Machine learning for scientific and physical systems
-- Time-series modeling and signal processing
-- Uncertainty, robustness, and model evaluation
-- Neural and satellite data analysis
+- Foundational machine learning research
+- Applied AI in scientific domains
+- Bio-inspired computing
+- Quantum computing
 
 ### Experience Highlights
 - **AI/ML Research Intern — Army Research Laboratory (via University of Maryland)**  
-  Built ML pipelines for detecting and interpreting neural activity in two-photon calcium imaging data,
-  with a focus on peak detection, noise, and high-dimensional time series.
+  Built pipelines utilizing ML for detecting and interpreting neural activity in two-photon calcium imaging data,
+  with a focus on peak detection, and data denoising
+  Created a novel software pipeline to extract and process astrocytic signaling from astrocyte & neuron experimental videos
+  Converted & cleaned over 2TB of calcium imaging data under injury conditions
 
-- **Machine Learning Technical Lead — Amazon Project Kuiper (UMD App Dev Club)**  
-  Led model development and feature engineering for satellite state classification and clutter height
-  prediction, improving system performance and coordinating a 10+ person engineering team.
+- **Machine Learning Technical Lead — Amazon Project Leo collaboration with UMD App Dev Club**
+  Worked on projects to **detect satellite state changes** & **anomalous satellite behavior** from satellite time-series data,
+ **infer clutter height** & signal obfuscation from open-source data to **determine optimal**, clutter-free **locations for satellite
+  gateways**, and identify airport boundaries from scraped satellite imagery given a coordinate
+  Led model development and feature engineering, improving system performance and coordinating a 10+ person engineering team.
 
 - **AI Research Intern — UChicago Data Science Institute / Fermi National Laboratory**  
   Developed reinforcement learning agents to optimize telescope positioning under a constrained environment.
