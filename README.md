@@ -13,7 +13,7 @@ astrophysics, satellite systems, and biology
 - Quantum computing
 
 ### Experience Highlights
-- **AI/ML Research Intern — Army Research Laboratory (via University of Maryland)**
+- **Research Intern — Army Research Laboratory (via University of Maryland)**
   
   Built pipelines utilizing ML for detecting and interpreting neural activity in two-photon calcium imaging data,
   with a focus on peak detection, and data denoising
