@@ -13,7 +13,7 @@ astrophysics, satellite systems, and biology
 - Quantum computing
 
 ### Experience Highlights
-- **Research Intern — Army Research Laboratory (via University of Maryland)**
+- **Research Intern — Army Research Laboratory, University of Maryland**
   
   Built pipelines utilizing ML for detecting and interpreting neural activity in two-photon calcium imaging data,
   with a focus on peak detection, and data denoising
@@ -27,10 +27,13 @@ astrophysics, satellite systems, and biology
   gateways**, and identify airport boundaries from scraped satellite imagery given a coordinate
   Led model development and feature engineering, improving system performance and coordinating a 10+ person engineering team.
 
-- **AI Research Intern — UChicago Data Science Institute / Fermi National Laboratory**  
-  Developed reinforcement learning agents to optimize telescope positioning under a constrained environment.
+- **AI Research Intern — UChicago Data Science Institute / Fermi National Laboratory**
+  
+  Trained reinforcement learning agents to optimize telescope positioning to best capture interesting astronomical events
+  Expanded system by training a suite of agents to operate in different wavelength bands, to optimize for different concerns
 
-- **Research Intern — Lawrence Berkeley National Laboratory**  
+- **Research Intern — Lawrence Berkeley National Laboratory**
+  
   Worked on quantum simulation and error correction for drug discovery applications.
 
 ### Tools & Skills
