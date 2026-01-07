@@ -15,10 +15,10 @@ astrophysics, satellite systems, and biology
 ### Experience Highlights
 - **Research Intern — Army Research Laboratory, University of Maryland**
   
-  Built pipelines utilizing ML for detecting and interpreting neural activity in two-photon calcium imaging data,
+  -Built pipelines utilizing ML for detecting and interpreting neural activity in two-photon calcium imaging data,
   with a focus on peak detection, and data denoising
-  Created a novel software pipeline to extract and process astrocytic signaling from astrocyte & neuron experimental videos
-  Converted & cleaned over 2TB of calcium imaging data under injury conditions
+  -Created a novel software pipeline to extract and process astrocytic signaling from astrocyte & neuron experimental videos
+  -Converted & cleaned over 2TB of calcium imaging data under injury conditions
 
 - **Machine Learning Technical Lead — Amazon Project Leo collaboration with UMD App Dev Club**
   
