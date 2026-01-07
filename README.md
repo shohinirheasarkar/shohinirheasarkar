@@ -20,6 +20,7 @@ astrophysics, satellite systems, and biology
   Converted & cleaned over 2TB of calcium imaging data under injury conditions
 
 - **Machine Learning Technical Lead — Amazon Project Leo collaboration with UMD App Dev Club**
+  
   Worked on projects to **detect satellite state changes** & **anomalous satellite behavior** from satellite time-series data,
  **infer clutter height** & signal obfuscation from open-source data to **determine optimal**, clutter-free **locations for satellite
   gateways**, and identify airport boundaries from scraped satellite imagery given a coordinate
