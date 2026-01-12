@@ -15,10 +15,10 @@ astrophysics, satellite systems, and biology
 ### Experience Highlights
 - **Research Intern — Army Research Laboratory, University of Maryland**
   
-  - Built pipelines utilizing ML for detecting and interpreting neural activity in two-photon calcium imaging data,
+  - Built pipelines utilizing **ML for detecting and interpreting neural activity** in two-photon calcium imaging data,
   with a focus on peak detection, and data denoising
-  - Created a novel software pipeline to extract and process astrocytic signaling from astrocyte & neuron experimental videos
-  - Converted & cleaned over 2TB of calcium imaging data under injury conditions
+  - Created a **novel software pipeline to extract and process astrocytic signaling** from astrocyte & neuron experimental videos
+  - Converted & cleaned **over 2TB of calcium imaging data** under injury conditions
 
 - **Machine Learning Technical Lead — Amazon Project Leo collaboration with UMD App Dev Club**
   
@@ -29,12 +29,13 @@ astrophysics, satellite systems, and biology
 
 - **AI Research Intern — UChicago Data Science Institute / Fermi National Laboratory**
   
-  - Trained reinforcement learning agents to optimize telescope positioning to best capture interesting astronomical events
-  - Expanded system by training a suite of agents to operate in different wavelength bands, to optimize for different concerns
+  - Trained **reinforcement learning agents to optimize telescope positioning** to best capture interesting astronomical events
+  - Expanded system by training a **suite of agents** to operate in different wavelength bands, to **optimize for different concerns**
 
 - **Research Intern — Lawrence Berkeley National Laboratory**
-  
-  Worked on quantum simulation and error correction for drug discovery applications.
+  - Optimized a Variational Quantum Eigensolver for **applications in quantum chemistry**
+  - **Experimented with various quantum backends** to understand effects on quantum algorithm performance
+  - Explored and implemented **quantum error correction schemes**
 
 ### Side Projects
 TODO
