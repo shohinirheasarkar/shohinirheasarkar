@@ -37,17 +37,11 @@ astrophysics, satellite systems, and biology
   - **Experimented with various quantum backends** to understand effects on quantum algorithm performance
   - Explored and implemented **quantum error correction schemes**
 
-### Side Projects
-TODO
-
-### Publications
-TODO
-
 ### Tools & Skills
 Python, Java, C/C++  
 scikit-learn, TensorFlow, NumPy, Pandas, CaImAn  
 Jupyter, Google Colab, ML pipelines
 
 📫 Email: ssarkar6@terpmail.umd.edu  
-🌐 Portfolio: WIP
+🌐 Portfolio: https://personalportfoliorhea.vercel.app/
 
