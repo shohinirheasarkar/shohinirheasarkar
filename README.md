@@ -1,6 +1,6 @@
 ## Hi, I'm Shohini Rhea Sarkar
 
-I'm a Computer Science undergraduate at the University of Maryland (B.S. in Machine Learning, expected May 2027),
+I'm a Computer Science undergraduate at the University of Maryland,
 with a strong interest in AI research
 
 My work has focused on applying machine learning to complex domains, including neuroscience,
