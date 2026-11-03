@@ -1,9 +1,11 @@
 ## Hi, I'm Shohini Rhea Sarkar
 
 I'm a Computer Science undergraduate at the University of Maryland,
-with a strong interest in AI research
+with an interest in AI research.
 
-My work has focused on applying machine learning to complex domains, including neuroscience,
+Currently, I'm primarily focused on AI safety, AI agent swarm behavior, and LLM research.
+
+In the past, my work has focused on applying machine learning to complex domains, including neuroscience,
 astrophysics, satellite systems, and biology
 
 ### Research & Technical Interests
